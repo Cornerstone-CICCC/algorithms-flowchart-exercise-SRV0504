@@ -40,6 +40,14 @@ Pseudocode:
 
 ### _Answer_
 
+1.	Start 
+2.	Input the length 
+3.	Input the width 
+4.	Calculate area 
+5.	Output the area 
+6.	End 
+![alt text](flowcharts/2.png)
+
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
