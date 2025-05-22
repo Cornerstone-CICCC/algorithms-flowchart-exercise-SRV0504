@@ -56,11 +56,27 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 
 ### _Answer_
 
+1.	Start
+2.	Input A, B, C
+3.	If   A > B
+    ->  If  A > C
+     -> Output  A
+-> Else 
+         -> Output C
+4.	Else 
+             -> If   B > C
+                -> Output B
+             -> Else 
+                -> Output C 
+5.	End
+![alt text](flowcharts/3.png)
+
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+
 
 ## Exercise 5
 
