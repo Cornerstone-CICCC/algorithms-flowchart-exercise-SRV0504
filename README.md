@@ -77,6 +77,16 @@ Write an algorithm and draw a flowchart to check the three number inputs whether
 
 ### _Answer_
 
+Ex 4
+1: Start
+2: Input three angles: A, B, and C
+3: Calculate the sum → sum = A + B + C
+4: If sum == 180
+    → Output "Possible"
+ 5: Else
+    → Output "Not possible"
+6: End
+![alt text](flowcharts/4.png)
 
 ## Exercise 5
 
