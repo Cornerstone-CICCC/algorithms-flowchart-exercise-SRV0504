@@ -105,3 +105,15 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
+1: Start
+2: Accept the name and marks of the student
+3: If marks ≥ 80
+  → Display: “Grade A”
+4: Else if marks ≥ 60 and marks < 80
+  → Display: “Grade B”
+5: Else if marks ≥ 40 and marks < 60
+  → Display: “Grade C”
+6: Else
+  → Display: “No Grade”
+7: End
+![alt text](flowcharts/5.png)
