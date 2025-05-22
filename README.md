@@ -22,7 +22,12 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
-
+1.	Start
+2.	Input feet 
+3.	Calculate cm = feet * 30.48 cm 
+4.	Output cm 
+5.	End 
+![alt text](flowcharts/1.png)
 ## Exercise 2
 
 Write an algorithm and draw a flowchart that will read the two sides of a rectangle and calculate its area.
